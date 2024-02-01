@@ -1,0 +1,8 @@
+azure-cognitiveservices-speech
+python-telegram-bot==13.15
+pymongo
+requests
+telnyx
+vonage
+pystyle
+flask
